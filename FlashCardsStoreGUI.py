@@ -2,7 +2,7 @@ from tkinter import *
 import sqlite3
 import os
 
-os.chdir(r'C:\Users\sohai\OneDrive\Desktop\All About Programming\Python Projects\Projects For Training\FlashCardsDatabase')
+
 
 # Setup Window
 root = Tk()
