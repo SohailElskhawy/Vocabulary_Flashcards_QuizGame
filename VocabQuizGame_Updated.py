@@ -1,9 +1,8 @@
 import tkinter as tk
 import sqlite3
-import os
 import random
 
-os.chdir(r"C:\Users\sohai\OneDrive\Desktop\All About Programming\Python Projects\Projects For Training\FlashCardsDatabase")
+
 
 class VocabQuizGame:
     def __init__(self,root):
